@@ -61,3 +61,9 @@ The dataset used for this project is available on Kaggle: [Bank Customer Churn M
 
 #### **Conclusion:**
 This project demonstrates how to preprocess a dataset, visualize key insights, and build a machine learning model to predict customer churn. By understanding customer segments and predicting churn, banks can implement targeted strategies to retain customers and enhance their overall experience. Further model evaluation metrics like precision, recall, F1 score, and ROC-AUC curves can be used to gain deeper insights into the model's performance.
+
+### **SCREEN SHOT**
+![SCREENSHOT1](https://github.com/Rajatkapoor01/YBI-FOUNDATION-Bank-Churn-Prediction-/blob/main/ScreenShot/bankPred1.png)
+![SCREENSHOT2](https://github.com/Rajatkapoor01/YBI-FOUNDATION-Bank-Churn-Prediction-/blob/main/ScreenShot/bankPred2.png)
+![SCREENSHOT3](https://github.com/Rajatkapoor01/YBI-FOUNDATION-Bank-Churn-Prediction-/blob/main/ScreenShot/bankPred3.png)
+![SCREENSHOT4](https://github.com/Rajatkapoor01/YBI-FOUNDATION-Bank-Churn-Prediction-/blob/main/ScreenShot/bankPred4.png)
